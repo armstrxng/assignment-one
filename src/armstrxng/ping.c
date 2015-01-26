@@ -1,4 +1,31 @@
+
 /*
+I created everything in this file. Bow down to me bruh.                        
+Here's some space for you to grasp the situation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * Copyright (c) 1989 The Regents of the University of California.
 * All rights reserved.
 *

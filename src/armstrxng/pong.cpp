@@ -15,7 +15,7 @@ century.
 Emphasis is on readability and ease of understanding the code.
 Inspiration and design inspired by:
 
-Mike Muuss
+Mike Armstrong
 U. S. Army Ballistic Research Laboratory
 December, 1983
 Modified at UC Berkeley
